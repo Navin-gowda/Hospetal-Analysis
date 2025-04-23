@@ -7,7 +7,7 @@ This repository contains a Power BI dashboard for analyzing hospital data. The g
 - Patient admission trends over time
 - Department-wise performance comparison
 - Bed occupancy rate analysis
-- Average length of stay
+- Average Wait Time
 - Gender and age distribution of patients
 - Interactive slicers for hospital units, departments, and time periods
 
@@ -22,8 +22,9 @@ This repository contains a Power BI dashboard for analyzing hospital data. The g
 
 ## 📷 Screenshots
 
-![Dashboard Overview](path/to/screenshot1.png)
-![Admission Trends](path/to/screenshot2.png)
+![Dashboard Overview](https://github.com/Navin-gowda/Hospetal-Analysis/blob/main/1Monthly%20View.png)
+![Consolidate VIew](https://github.com/Navin-gowda/Hospetal-Analysis/blob/main/2Consolidate%20View.png)
+![Insights](https://github.com/Navin-gowda/Hospetal-Analysis/blob/main/Insights.png)
 
 ## 🚀 Getting Started
 
